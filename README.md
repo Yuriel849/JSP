@@ -1,2 +1,2 @@
 # JSP
-A repository of my studies of Servlets &amp; JSP
+A repository of my studies of Java Servlets &amp; JSP
